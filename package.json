@@ -27,7 +27,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://nogiszd.github.io/ninjaflex",
+  "homepage": "./",
   "browserslist": {
     "production": [
       ">0.2%",
