@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ninjaflex/static/css/main.de3735cb.css",
+    "main.js": "/ninjaflex/static/js/main.a20c52aa.js",
+    "static/media/ninja.wav": "/ninjaflex/static/media/ninja.5ac13781f186c48575e5.wav",
+    "static/media/flex.wav": "/ninjaflex/static/media/flex.d427505c3f56c836e331.wav",
+    "static/media/big-ninja.gif": "/ninjaflex/static/media/big-ninja.2b166cfd218d487f064f.gif",
+    "static/media/big-flex.gif": "/ninjaflex/static/media/big-flex.79fe82028eaf47ffeb0b.gif",
+    "index.html": "/ninjaflex/index.html",
+    "main.de3735cb.css.map": "/ninjaflex/static/css/main.de3735cb.css.map",
+    "main.a20c52aa.js.map": "/ninjaflex/static/js/main.a20c52aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de3735cb.css",
+    "static/js/main.a20c52aa.js"
+  ]
+}
