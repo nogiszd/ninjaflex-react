@@ -3,12 +3,12 @@ import CustomHoverGif from "./CustomHoverGif";
 
 import classes from "./App.module.css";
 
-import ninja from "./audio/ninja.wav";
-import flex from "./audio/flex.wav";
-import ninjaGif from "./img/big-ninja.gif";
-import ninjaWord from "./img/ninja.gif";
-import flexGif from "./img/big-flex.gif";
-import flexWord from "./img/flex.gif";
+import ninja from "./assets/audio/ninja.wav";
+import flex from "./assets/audio/flex.wav";
+import ninjaGif from "./assets/img/big-ninja.gif";
+import ninjaWord from "./assets/img/ninja.gif";
+import flexGif from "./assets/img/big-flex.gif";
+import flexWord from "./assets/img/flex.gif";
 
 const App = () => {
   return (
